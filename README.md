@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on boot camp prework
+- 🌱 I’m currently learning how to code Javascript
+- 💬 Ask me about gaming or music
+- 📫 How to reach me: do not percieve me
+- 😄 Pronouns: She/them
 <!--
 **addieMasterCoder/addieMasterCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
