@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on boot camp prework
-- 🌱 I’m currently learning how to code Javascript
+- 🔭 I’m currently working on my side project front-end design 
+- 🌱 I’m currently learning C++
 - 💬 Ask me about gaming or music
-- 📫 How to reach me: do not percieve me
+- 📫 How to reach me: AddieLubinsky@gmail.com
 - 😄 Pronouns: She/them
 <!--
 **addieMasterCoder/addieMasterCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
