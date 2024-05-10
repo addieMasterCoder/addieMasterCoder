@@ -1,9 +1,9 @@
-### Hi there 👋
-- 🔭 I’m currently working on my side project front-end design 
-- 🌱 I’m currently learning C++
-- 💬 Ask me about gaming or music
+### Salutations 👋
+- 🔭 I’m currently working on a Baldur's Gate Damage Calculator!
+- 🌱 I’m currently learning C#
+- 💬 Ask me about my Golden Dice run or about my true love, Djent (0)
 - 📫 How to reach me: AddieLubinsky@gmail.com
-- 😄 Pronouns: She/them
+- 😄 Pronouns: She/they
 <!--
 **addieMasterCoder/addieMasterCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
